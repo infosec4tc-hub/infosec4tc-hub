@@ -100,11 +100,11 @@ Comprehensive cloud security assessment framework covering all major cloud platf
 - 📊 **Assessment Reports**: Professional report templates with remediation priorities
 
 **Bonus**: Integration guides for Wazuh SIEM for cloud workload protection  
-📥 **[Download Cloud Assessment Framework](https://github.com/infosec4tc/cloud-security-assessment)**
+📥 **[Download Cloud Assessment Framework](https://github.com/infosec4tc/Security_assessment_checklists)**
 
 ---
 
-### 🏭 [OT/ICS Security Assessment Guide](https://github.com/infosec4tc/ot-security-assessment)
+### 🏭 [OT/ICS Security Assessment Guide](https://github.com/infosec4tc/Security_assessment_checklists)
 **Operational Technology & Industrial Control Systems Security**
 
 Specialized security assessment framework for OT/ICS environments:
@@ -117,11 +117,11 @@ Specialized security assessment framework for OT/ICS environments:
 - 📋 **Safety-Security Integration**: Balancing operational safety with cybersecurity
 
 **Critical for**: Manufacturing, utilities, oil & gas, smart buildings, critical infrastructure  
-📥 **[Download OT Security Assessment Guide](https://github.com/infosec4tc/ot-security-assessment)**
+📥 **[Download OT Security Assessment Guide](https://github.com/infosec4tc/Security_assessment_checklists)**
 
 ---
 
-### 📱 [IoT Security Assessment Toolkit](https://github.com/infosec4tc/iot-security-assessment)
+### 📱 [IoT Security Assessment Toolkit](https://github.com/infosec4tc/Security_assessment_checklists)
 **Securing the Internet of Things - Devices, Networks & Data**
 
 End-to-end IoT security assessment methodology:
@@ -134,7 +134,7 @@ End-to-end IoT security assessment methodology:
 - 🏥 **Sector-Specific Guides**: Healthcare IoT, smart buildings, industrial IoT
 
 **Includes**: Penetration testing checklists and vulnerability assessment templates  
-📥 **[Download IoT Security Toolkit](https://github.com/infosec4tc/iot-security-assessment)**
+📥 **[Download IoT Security Toolkit](https://github.com/infosec4tc/Security_assessment_checklists)**
 
 ---
 
@@ -265,9 +265,9 @@ I'd love to help! Feel free to:
 - [Risk Assessment Toolkit](https://github.com/infosec4tc/risk-assessment-toolkit)
 
 **🔍 Security Assessment Tools**
-- [Cloud Security Assessment](https://github.com/infosec4tc/cloud-security-assessment)
-- [OT/ICS Security Assessment](https://github.com/infosec4tc/ot-security-assessment)
-- [IoT Security Assessment](https://github.com/infosec4tc/iot-security-assessment)
+- [Cloud Security Assessment](https://github.com/infosec4tc/Security_assessment_checklists)
+- [OT/ICS Security Assessment](https://github.com/infosec4tc/Security_assessment_checklists)
+- [IoT Security Assessment](https://github.com/infosec4tc/Security_assessment_checklists)
 
 **📋 Compliance & Templates**
 - [GRC Templates & Frameworks](https://github.com/infosec4tc/grc-templates)
