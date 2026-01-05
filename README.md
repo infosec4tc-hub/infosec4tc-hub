@@ -35,7 +35,7 @@ I've integrated **7 powerful open-source tools** into a unified cybersecurity pl
 
 ## 💼 Security Framework & Assessment Projects
 
-### 🎯 [Security Awareness Training Framework](https://github.com/infosec4tc/effective-security-awareness)
+### 🎯 [Security Awareness Training Framework](https://github.com/infosec4tc-hub/Cyber_Security_Awareness)
 **Building Effective IS Awareness Programs for Enterprises**
 
 A comprehensive framework for creating, implementing, and measuring security awareness programs that actually work:
@@ -48,11 +48,11 @@ A comprehensive framework for creating, implementing, and measuring security awa
 - 📈 **Behavior Change Tracking**: Before/after assessment tools
 
 **Impact**: Proven to reduce security incidents by 60-80% when properly implemented  
-📥 **[Download Complete Awareness Kit](https://github.com/infosec4tc/effective-security-awareness)**
+📥 **[Download Complete Awareness Kit](https://github.com/infosec4tc-hub/Cyber_Security_Awareness)**
 
 ---
 
-### 📊 [KPI Framework for Information Security](https://github.com/infosec4tc/security-kpi-framework)
+### 📊 [KPI Framework for Information Security](https://github.com/infosec4tc-hub/cs_KPI_Framework)
 **Building Measurable Security Metrics that Drive Results**
 
 A battle-tested KPI framework based on 7+ years of achieving 100% DESC compliance:
@@ -65,7 +65,7 @@ A battle-tested KPI framework based on 7+ years of achieving 100% DESC complianc
 - 🏆 **Benchmarking Data**: Industry standards and GCC regional benchmarks
 
 **What You Get**: Complete KPI library with formulas, data collection methods, and automated reporting templates  
-📥 **[Download KPI Framework & Dashboards](https://github.com/infosec4tc/security-kpi-framework)**
+📥 **[Download KPI Framework & Dashboards](https://github.com/infosec4tc-hub/CS_KPI_Framework)**
 
 ---
 
@@ -82,7 +82,7 @@ Professional risk assessment tools and methodologies used across UAE government 
 - 📚 **Methodology Guide**: Step-by-step process following ISO 31000 and ISO 27005
 
 **Suitable for**: Organizations of all sizes - from startup MVPs to enterprise-wide assessments  
-📥 **[Download Risk Assessment Toolkit](https://github.com/infosec4tc/risk-assessment-toolkit)**
+📥 **[Download Risk Assessment Toolkit](https://github.com/infosec4tc-hub/risk-assessment-toolkit)**
 
 ---
 
@@ -260,8 +260,8 @@ I'd love to help! Feel free to:
 - [Cyber Security 365 - Full Platform](https://github.com/infosec4tc-hub/cyber-security-365)
 
 **📚 Security Frameworks & Programs**
-- [Effective Security Awareness Program](https://github.com/infosec4tc/effective-security-awareness)
-- [Security KPI Framework](https://github.com/infosec4tc/security-kpi-framework)
+- [Effective Security Awareness Program](https://github.com/infosec4tc-hub/Cyber_Security_Awareness)
+- [Security KPI Framework](https://github.com/infosec4tc-hub/CS_KPI_Framework)
 - [Risk Assessment Toolkit](https://github.com/infosec4tc/risk-assessment-toolkit)
 
 **🔍 Security Assessment Tools**
