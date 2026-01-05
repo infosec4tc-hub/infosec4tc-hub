@@ -69,7 +69,7 @@ A battle-tested KPI framework based on 7+ years of achieving 100% DESC complianc
 
 ---
 
-### 🔍 [Enterprise Risk Assessment Toolkit](https://github.com/infosec4tc/risk-assessment-toolkit)
+### 🔍 [Enterprise Risk Assessment Toolkit](https://github.com/infosec4tc-hub/Risk_Asessment_Toolkit)
 **Conducting Professional Risk Assessments - Templates & Methodologies**
 
 Professional risk assessment tools and methodologies used across UAE government entities:
@@ -82,7 +82,7 @@ Professional risk assessment tools and methodologies used across UAE government 
 - 📚 **Methodology Guide**: Step-by-step process following ISO 31000 and ISO 27005
 
 **Suitable for**: Organizations of all sizes - from startup MVPs to enterprise-wide assessments  
-📥 **[Download Risk Assessment Toolkit](https://github.com/infosec4tc-hub/risk-assessment-toolkit)**
+📥 **[Download Risk Assessment Toolkit](https://github.com/infosec4tc-hub/Risk_Asessment_Toolkit)**
 
 ---
 
@@ -262,7 +262,7 @@ I'd love to help! Feel free to:
 **📚 Security Frameworks & Programs**
 - [Effective Security Awareness Program](https://github.com/infosec4tc-hub/Cyber_Security_Awareness)
 - [Security KPI Framework](https://github.com/infosec4tc-hub/CS_KPI_Framework)
-- [Risk Assessment Toolkit](https://github.com/infosec4tc/risk-assessment-toolkit)
+- [Risk Assessment Toolkit](https://github.com/infosec4tc/Risk_Asessment_Toolkit)
 
 **🔍 Security Assessment Tools**
 - [Cloud Security Assessment](https://github.com/infosec4tc-hub/Security_assessment_checklists)
