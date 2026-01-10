@@ -270,13 +270,13 @@ I'd love to help! Feel free to:
 - [IoT Security Assessment](https://github.com/infosec4tc-hub/Security_assessment_checklists)
 
 **📋 Compliance & Templates**
-- [GRC Templates & Frameworks](https://github.com/infosec4tc/grc-templates)
-- [ISO 27001 Implementation Guide](https://github.com/infosec4tc/iso27001-guide)
-- [ISR/NESA Compliance Checklists](https://github.com/infosec4tc/gcc-compliance)
+- [GRC Templates & Frameworks](https://github.com/infosec4tc-hub/Security_assessment_checklists)
+- [ISO 27001 Implementation Guide](https://github.com/infosec4tc-hub/iso27001-guide)
+- [ISR/NESA Compliance Checklists](https://github.com/infosec4tc-hub/gcc-compliance)
 
 **🤖 Automation & Integration**
 - [SIEM Configuration & Use Cases](https://github.com/infosec4tc/siem-configurations)
-- [SOAR Playbooks Library](https://github.com/infosec4tc/soar-playbooks)
-- [Security Automation Scripts](https://github.com/infosec4tc/automation-scripts)
+- [SOAR Playbooks Library](https://github.com/infosec4tc/cybersecurity365)
+- [Security Automation Scripts](https://github.com/infosec4tc-hub/cybersecurity365)
 
 -->
